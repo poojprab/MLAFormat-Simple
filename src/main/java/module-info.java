@@ -12,6 +12,7 @@ module personalLibrary {
     requires org.controlsfx.controls;
     requires java.desktop;
     requires org.jetbrains.annotations;
+    requires org.jsoup;
 
     opens starterCode to javafx.fxml;
     exports starterCode;

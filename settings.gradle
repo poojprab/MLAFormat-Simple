@@ -1,1 +1,3 @@
 rootProject.name = 'Java-Starter-Code'
+include 'Module'
+
